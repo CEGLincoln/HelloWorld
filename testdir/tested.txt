@@ -1,0 +1,5 @@
+GREETINGS
+
+I managed to create a new directory!
+
+just type: mkdir
